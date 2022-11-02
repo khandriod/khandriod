@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @khandriod
-- 👀 I’m interested in ...A1. Machine Learning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in .... Machine Learning, Deep Learning, Civil Engineering, BIM
+- 🌱 I’m currently learning ... Deep Learning, 
+- 💞️ I’m looking to collaborate on **computer vision application in construction**
+- 📫 How to reach me ... email me.
 
 <!---
 khandriod/khandriod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
